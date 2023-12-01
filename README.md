@@ -15,6 +15,46 @@ TERMOS DE USO:
 
 6. Os desenvolvedores do bot "nush" podem remover o bot nush do seu servidor a qualquer momento, por qualquer motivo.
 
+7. Ao utilizar o bot "nush", concorda em não compartilhar conteúdo ofensivo, abusivo ou ilegal.
+
+8. O bot "nush" não se responsabiliza por quaisquer danos causados ao seu dispositivo ou conta.
+
+9. É proibido o uso do bot "nush" para spam, envio de mensagens em massa ou qualquer forma de assédio.
+
+10. Você concorda em não tentar acessar ou modificar o código-fonte ou infraestrutura do bot "nush" sem permissão.
+
+11. O bot "nush" pode ser atualizado ou modificado a qualquer momento, sem aviso prévio.
+
+12. Ao utilizar o bot "nush", você reconhece que o mesmo pode estar sujeito a interrupções temporárias ou falhas ocasionais.
+
+13. É proibido o uso do bot "nush" para qualquer atividade que viole as leis de direitos autorais ou propriedade intelectual.
+
+14. Você é responsável por garantir que todas as interações com o bot "nush" estejam em conformidade com as leis e regulamentos aplicáveis.
+
+15. O bot "nush" pode coletar informações de uso para melhorar sua funcionalidade e desempenho.
+
+16. Os desenvolvedores do bot "nush" se reservam o direito de suspender ou encerrar o acesso ao serviço a qualquer momento, por qualquer motivo.
+
+17. Ao utilizar o bot "nush", você concorda em não fazer uso indevido de qualquer informação pessoal obtida por meio do bot.
+
+18. O bot "nush" pode oferecer recursos adicionais ou premium que estão sujeitos a termos e condições específicos.
+
+19. O uso do bot "nush" implica na aceitação de quaisquer atualizações ou modificações nos termos de uso.
+
+20. O bot "nush" não garante a disponibilidade contínua ou livre de erros do serviço.
+
+21. É proibido o uso do bot "nush" para qualquer atividade que viole a privacidade de terceiros.
+
+22. Você concorda em não utilizar o bot "nush" para disseminar informações falsas ou enganosas.
+
+23. O bot "nush" pode armazenar e processar dados pessoais de acordo com sua Política de Privacidade.
+
+24. Você é responsável por manter a segurança de suas credenciais de acesso ao bot "nush".
+
+25. Os desenvolvedores do bot "nush" não garantem a precisão ou confiabilidade de qualquer informação fornecida pelo bot.
+
+26. Ao utilizar o bot "nush", você concorda em cumprir todas as leis e regulamentos aplicáveis.
+
 
 POLÍTICA & PRIVACIDADE:
 
